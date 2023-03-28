@@ -1,6 +1,6 @@
 # my_automated_scripts
 
-This repository contains a collection of scripts that I created for automating various tasks at my work, university, or in my free time. Please note that these scripts come with no guarantee and are provided as-is. Use them at your own risk.
+This repository contains a collection of scripts that I created for automating various tasks for my work, university, or just for my free time. Please note that these scripts come with no guarantee and are provided as-is. Use them at your own risk.
 
 ### Contents
 Here's a brief overview of the scripts included in this repository:
