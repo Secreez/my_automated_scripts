@@ -1,5 +1,5 @@
 """
-This script is a quite modified version of Thomas Zuberbühler's original script: https://github.com/UNIGIS-Salzburg/En_AppDev-Basics/tree/master/util/housekeeping
+This script is a quite modified version of Thomas Zuberbühler's original (privated) script: https://github.com/UNIGIS-Salzburg/En_AppDev-Basics/tree/master/util/housekeeping
 
 The script checks all links in all RMD files in a folder (and its subfolders) for broken links
 and logs the results in a log file. It has been modified to work with knitr links in RMD files.
@@ -10,8 +10,7 @@ RMD_FOLDER - line 20 -> Path(SCRIPT_FOLDER).parent # path to the folder containi
 Note:
 I advise you to check the ERROR fields in the log file, if they are still valid.
 Because some websites implement rate limiting, block requests from automated scripts, or implement other security measures to prevent server overload or abuse.
-
-"this version of the script was tested in DE_MSC_DATSRCAQ and DE_MSC_OpenGIS - folder: auto_scripts/brokenlinks.py"
+- I may include tests in the future.
 
 """
 
